@@ -1,0 +1,3 @@
+/Users/aidencox/git/cppTempConversion/cmake-build-debug/CMakeFiles/cppTempConversion.dir
+/Users/aidencox/git/cppTempConversion/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/aidencox/git/cppTempConversion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
